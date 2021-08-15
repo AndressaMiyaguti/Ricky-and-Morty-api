@@ -87,14 +87,12 @@ body{
       margin: 1rem;
       border-radius: 0.5rem;
       transition: 0.5s; 
-      background: #000000;  /* fallback for old browsers */
-      background: -webkit-linear-gradient(to left, #434343, #383636,#434343, #383636);  /* Chrome 10-25, Safari 5.1-6 */
-      background: linear-gradient(to left, #434343, #383636,#434343, #383636); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     
       
-     /*  background: #0e0e0d;
+      background: #0e0e0d;
       background: -webkit-linear-gradient(to right, #b3b005,#a3a005e5, #bbb808e5, #f8f543b4, #bbb808e5, #a3a005e5);
       background: linear-gradient(to right, #b3b005,#a3a005e5, #bbb808e5, #f8f543b4, #bbb808e5, #a3a005e5);
-      border: 2px solid rgba(192, 182, 37, 0.616); */
+      border: 2px solid rgba(192, 182, 37, 0.616);
 
       &__image{
         width: 100%;
@@ -106,7 +104,7 @@ body{
         padding: 0.5rem;
         font-size: 0.7em; 
         height: 80%; 
-        border: #000000 2px solid; 
+        
         
                 
       }      
